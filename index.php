@@ -181,7 +181,7 @@
 
 							<header>
 								<h2 style="color: #fff;">Comparative Market Analysis</h2>
-								<h3 style="color: #ecf0f1;">Properties sold within area of 2207 Damuth St</h3>
+								<h3 style="color: #ecf0f1;">Properties sold within area of 2229 E 25th St</h3>
 							</header>
 							<div class="row">
 								<div class="4u">
